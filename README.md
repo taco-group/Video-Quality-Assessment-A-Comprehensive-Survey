@@ -231,6 +231,8 @@ SAMScore: [SAMScore: A Semantic Structural Similarity Metric for Image Translati
 
 SAM-IQA: [SAM-IQA: Can Segment Anything Boost Image Quality Assessment?](https://arxiv.org/abs/2307.04455)
 
+JLD: [JLD: Perceptual Distance Through A Jacobian Lens](https://arxiv.org/abs/2610.05967)
+
 ##### Type ii: Feature pyramid-based IQA
 
 LPIPS: [The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhang_The_Unreasonable_Effectiveness_CVPR_2018_paper.html)
